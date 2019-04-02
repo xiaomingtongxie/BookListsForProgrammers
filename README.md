@@ -22,7 +22,7 @@ This is meant to be a list of must-read books for programmers to grow up with.
 
 + The Only Grammar Book You'll Ever Need: A One-Stop Source for Every Writing Assignment
 
-+ [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/）
+_ [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/）
 
 
 #### 版本控制系列
